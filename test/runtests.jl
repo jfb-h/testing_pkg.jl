@@ -5,4 +5,5 @@ using Test
     @test add2(2) == 4
     @test add2(5) == 7
     @test add2(1) == 3
+    @test add2(4) == 99
 end
